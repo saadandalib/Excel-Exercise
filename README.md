@@ -1,2 +1,2 @@
 # FirstWeekSample
-# This is basic
+This is basic
